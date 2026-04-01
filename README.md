@@ -1,14 +1,26 @@
-# 👋 Hey, I'm Joao Pedro!
+# 👋 Hey, I'm Joao Pedro\!
 
-**Fullstack Software Engineer** specialized in building robust, scalable applications using **Java** and **TypeScript**. With 1+ years of experience, I enjoy moving across the entire stack—from architecting microservices with **Spring Boot** and **Node.js** to crafting dynamic interfaces with **React** and **Angular**.
+**Software Engineer | Distributed Systems & Cloud-Native Architecture** Building high-scale systems with **Java**, **Go**, and **Angular**. I specialize in microservices reliability, event-driven architecture, and automated cloud infrastructure.
 
-### 🚀 What I bring to the table:
+### 🛠️ Engineering Focus:
 
-* **Backend Development:** Designing high-performance APIs and scalable services with **Java (Spring Boot)** and **Go**.
-* **Frontend Engineering:** Building responsive, type-safe, and user-centric UIs using **TypeScript**, **React**, and **Angular**.
-* **Systems Architecture:** Passionate about **Microservices**, clean code principles, and efficient system design.
+  * **Distributed Systems:** Implementing patterns like **Transactional Outbox**, **Circuit Breakers (Resilience4j)**, and **Hexagonal Architecture** to ensure system consistency and maintainability.
+  * **High-Performance Gateways:** Developed custom **WebSocket Gateways in Go** and **HTTP Gateways** to handle real-time traffic and service orchestration.
+  * **DevOps & Platform:** Managing production-grade environments with **Kubernetes (Kustomize)**, **Terraform**, and **Docker**.
+  * **Modern Frontend:** Architecting reactive, type-safe interfaces using **Angular 19 Signals** and specialized State Management.
 
----
+-----
+
+## 📂 Featured Project: Hermes (Microservices Ecosystem)
+
+*A full-scale messaging and authentication platform built for resilience.*
+
+  * **Backend:** Java 21 (Spring Boot 3.4), Go 1.24, PostgreSQL.
+  * **Infrastructure:** Kubernetes (Multi-overlay), Terraform, RabbitMQ, AWS Cognito.
+  * **Frontend:** Angular 19 (Signals & Signal Stores).
+  * **Key Achievement:** Solved the "Dual Write" problem in microservices by implementing a custom **Transactional Outbox relay service**.
+
+-----
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joaosimsic) 
