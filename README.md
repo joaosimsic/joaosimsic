@@ -18,7 +18,6 @@
   * **Backend:** Java 21 (Spring Boot 3.4), Go 1.24, PostgreSQL.
   * **Infrastructure:** Kubernetes (Multi-overlay), Terraform, RabbitMQ, AWS Cognito.
   * **Frontend:** Angular 19 (Signals & Signal Stores).
-  * **Key Achievement:** Solved the "Dual Write" problem in microservices by implementing a custom **Transactional Outbox relay service**.
 
 -----
 
