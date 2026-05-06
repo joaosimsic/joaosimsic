@@ -1,25 +1,25 @@
-# 👋 Hey, I'm Joao Pedro\!
+# 👋 Hey, I'm Joao Pedro!
 
-**Software Engineer | Distributed Systems & Cloud-Native Architecture** Building high-scale systems with **Java**, **Go**, and **Angular**. I specialize in microservices reliability, event-driven architecture, and automated cloud infrastructure.
+**Software Engineer | Fullstack Development**  
+I enjoy building end-to-end applications that combine robust backend logic with reactive, high-performance frontends. Currently, I'm focused on **Java**, **Go**, and **Angular** to create scalable web ecosystems.
 
-### 🛠️ Engineering Focus:
+### 🛠️ Core Engineering:
 
-  * **Distributed Systems:** Implementing patterns like **Transactional Outbox**, **Circuit Breakers (Resilience4j)**, and **Hexagonal Architecture** to ensure system consistency and maintainability.
-  * **High-Performance Gateways:** Developed custom **WebSocket Gateways in Go** and **HTTP Gateways** to handle real-time traffic and service orchestration.
-  * **DevOps & Platform:** Managing production-grade environments with **Kubernetes (Kustomize)**, **Terraform**, and **Docker**.
-  * **Modern Frontend:** Architecting reactive, type-safe interfaces using **Angular 19 Signals** and specialized State Management.
+*   **Backend & Distributed Logic:** Building services with **Java (Spring Boot)** and **Go**, focusing on reliability patterns like **Circuit Breakers** and **Hexagonal Architecture**.
+*   **Real-Time Systems:** Implementing **WebSockets** and event-driven communication to handle live data and service orchestration.
+*   **Modern Frontend:** Building type-safe, reactive user interfaces using **Angular 19** and **Signals** for efficient state management.
+*   **Fullstack Delivery:** Connecting complex microservices with clean APIs and ensuring seamless integration from the database to the browser.
 
------
+---
 
-## 📂 Featured Project: Hermes (Microservices Ecosystem)
+## 📂 Featured Project: Hermes (Fullstack Ecosystem)
+*A complete messaging and authentication platform built to explore system resilience.*
 
-*A full-scale messaging and authentication platform built for resilience.*
+*   **The Stack:** Java 21 (Spring Boot 3.4), Go 1.24, and Angular 19.
+*   **Key Focus:** Implementing the **Transactional Outbox** pattern to ensure data consistency between PostgreSQL and RabbitMQ, while maintaining a fluid UI with Signal-based state.
+*   **Infrastructure:** Deployed using Docker and Kubernetes to simulate a real-world production environment.
 
-  * **Backend:** Java 21 (Spring Boot 3.4), Go 1.24, PostgreSQL.
-  * **Infrastructure:** Kubernetes (Multi-overlay), Terraform, RabbitMQ, AWS Cognito.
-  * **Frontend:** Angular 19 (Signals & Signal Stores).
-
------
+---
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joaosimsic) 
